@@ -2,7 +2,8 @@
 
 A professional computer vision project focused on image analysis, preprocessing, visualization, and deep learning–based classification. This repository demonstrates an end-to-end image analytics workflow suitable for real-world AI applications.
 
----
+<img width="1537" height="1024" alt="scene2_scanning" src="https://github.com/user-attachments/assets/8bed05e4-f87b-40a2-bbeb-38d47ce38724" />
+
 
 ## 📌 Project Objective
 
